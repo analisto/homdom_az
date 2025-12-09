@@ -1,0 +1,7 @@
+face_recognition
+opencv-python
+pillow
+numpy
+matplotlib
+jupyter
+ipykernel
