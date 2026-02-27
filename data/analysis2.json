@@ -1,0 +1,38 @@
+{
+  "agent_concentration": {
+    "top10_listings": 343,
+    "total": 3171,
+    "top_agents": {
+      "Elan sahibi": 61,
+      "Elan Sahibi": 49,
+      "Camal Bəy": 39,
+      "Kamil bəy": 39,
+      "Rich Estate Baku (28 May)": 28
+    }
+  },
+  "median_area_by_rooms": {
+    "1": 52,
+    "2": 65,
+    "3": 105,
+    "4": 160,
+    "5": 150
+  },
+  "building_type_counts": {
+    "yeni tikili": 2088,
+    "kohne tikili": 650
+  },
+  "building_type_median_price": {
+    "yeni tikili": 850,
+    "kohne tikili": 600
+  },
+  "pm2_by_district": {
+    "Yasamal": 10.9,
+    "Nəsimi": 11.7,
+    "Nərimanov": 11.2,
+    "Xətai": 11.4,
+    "Nizami": 9.9,
+    "Səbail": 14.1,
+    "Binəqədi": 9.5,
+    "Abşeron": 6.9
+  }
+}

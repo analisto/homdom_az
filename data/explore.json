@@ -1,0 +1,40 @@
+{
+  "top_districts": {
+    "Yasamal": 695,
+    "Nəsimi": 584,
+    "Nərimanov": 500,
+    "Xətai": 475,
+    "Nizami": 206,
+    "Səbail": 174,
+    "Binəqədi": 152,
+    "Abşeron": 60,
+    "Xırdalan": 54,
+    "Sumqayıt": 42,
+    "Sabunçu": 41,
+    "NÉsimi": 38,
+    "XÉtai": 36,
+    "Suraxanı": 27,
+    "NÉrimanov": 27
+  },
+  "building_types": {
+    "yeni tikili": 2088,
+    "köhnə tikili": 650
+  },
+  "top_metro": {
+    "Nəriman Nərimanov m.": 247,
+    "28 May m.": 247,
+    "Elmlər Akademiyası m.": 186,
+    "Xətai m.": 174,
+    "İnşaatçılar m.": 156,
+    "Xətai": 142,
+    "Nərimanov": 134,
+    "Nəsimi": 132,
+    "8 noyabr": 127,
+    "Nizami m.": 116,
+    "20 Yanvar m.": 110,
+    "Memar Əcəmi m.": 102,
+    "Sahil m.": 101,
+    "Qara Qarayev m.": 94,
+    "Gənclik m.": 91
+  }
+}
